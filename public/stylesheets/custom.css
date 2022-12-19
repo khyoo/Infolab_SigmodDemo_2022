@@ -250,6 +250,24 @@ background:#FFFF00;
   overflow-y: auto;
 }
 
+.v-cont {
+  padding: 10px;
+  width: 100%;  
+  display: flex;
+  overflow-x: hidden;
+  overflow-y: hidden;
+}
+
+.v-cont-org {
+  padding: 5px;
+  width: 100%;    
+}
+
+.v-cont-ai {
+  padding: 5px;
+  width: 100%;    
+}
+
 .wrap3 {    
   width: 100%;
 }
